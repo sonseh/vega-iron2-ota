@@ -1,5 +1,20 @@
 [
   {
+    "datetime": 1793831272,
+    "type": "unofficial",
+    "version": "24.0",
+    "files": [
+      {
+        "filename": "lineage-24.0-20261104-UNOFFICIAL-ef63.zip",
+        "sha256": "cfaaefe62ff2278fe2f534f3051d27592d31839fa060f0696e764c3dcbfb11d3",
+        "size": 818134196,
+        "url": "https://github.com/sonseh/vega-iron2-ota/releases/download/24.0-20261104/lineage-24.0-20261104-UNOFFICIAL-ef63.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 37
+      }
+    ]
+  },
+  {
     "datetime": 1793561162,
     "type": "unofficial",
     "version": "24.0",
